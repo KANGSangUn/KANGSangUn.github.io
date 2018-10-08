@@ -1,6 +1,6 @@
 ---
-title: "3. Project 'meshimeshi'"
-date: 2018-10-8
+title: "Project 'meshimeshi'"
+date: 2018-10-8 17:49:28 -0400
 categories: Project meshimeshi
 ---
 
